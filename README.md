@@ -4,37 +4,37 @@ updated at 2020/01/20
 - HTML5
 - CSS
   - pure
-  - scss, sass
+  - SCSS, Sass
   - Bootstrap (V3, V4)
 - Javascript
   - pure
   - prototype
   - React / Redux
-  - Vue / VUEX
-  - nodejs / Express
+  - Vue / Vuex
+  - Node.js / Express
   - Typescript
   - jQuery / jQUery Widget
 - PHP
   - Laravel
-  - Cake PHP
-  - Wordpress
+  - CakePHP
+  - WordPress
 - Adobe Graphic Tools
   - Illustrator
   - Photoshop
   - Fireworks
   - XD
 - Database
-  - mySQL
+  - MySQL
 - Develop Environment
   - Docker
   - XAMPP (LAMP)
   - AWS (EC2, S3, RDS)
-  - node.js build (webpack, gulp)
+  - webpack, Gulp
 - Testing
   - Selenium (mocha assert)
-  - PHP Unit
+  - PHPUnit
 - Other knowledge
-  - GraphQl
+  - GraphQL
   - UI/UX design, prototyping
   - PWA
 
