@@ -8,9 +8,9 @@ updated at 2020/01/20
   - Bootstrap (V3, V4)
 - Javascript
   - pure
-  - prototype
-  - React / Redux
-  - Vue / Vuex
+  - prototype based class
+  - React / Redux / Next.js
+  - Vue / Vuex /Nuxt.js
   - Node.js / Express
   - Typescript
   - jQuery / jQUery Widget
@@ -18,11 +18,12 @@ updated at 2020/01/20
   - Laravel
   - CakePHP
   - WordPress
-- Adobe Graphic Tools
+- Graphic Tools
   - Illustrator
   - Photoshop
   - Fireworks
   - XD
+  - In Vision
 - Database
   - MySQL
 - Develop Environment
