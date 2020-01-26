@@ -1,6 +1,6 @@
 # about me
 ## what I can do
-updated at 2020/01/20
+updated at 2020/01/26
 - HTML5
 - CSS
   - pure
