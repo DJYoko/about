@@ -9,7 +9,7 @@ updated at 2020/01/26
 - Javascript
   - pure
   - prototype based class
-  - React / Redux / Next.js
+  - React / Redux / Next.js / Gatsby
   - Vue / Vuex /Nuxt.js
   - Node.js / Express
   - Typescript
@@ -18,7 +18,7 @@ updated at 2020/01/26
   - Laravel
   - CakePHP
   - WordPress
-- Graphic Tools
+- Graphic Tools (works are [pinterest](https://www.pinterest.jp/DJ_Yoko/))
   - Illustrator
   - Photoshop
   - Fireworks
@@ -34,6 +34,10 @@ updated at 2020/01/26
 - Testing
   - Selenium (mocha assert)
   - PHPUnit
+  - Laravel DUSK
+  - Laravel Feature Test
+  - JS Jest
+  - JS Mocha
 - Other knowledge
   - GraphQL
   - UI/UX design, prototyping
