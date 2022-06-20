@@ -1,6 +1,6 @@
 # about me
 ## what I can do
-updated at 2020/01/26
+updated at 2022/06/20
 - HTML5
 - CSS
   - pure
@@ -35,13 +35,14 @@ updated at 2020/01/26
   - Selenium (mocha assert)
   - PHPUnit
   - Laravel DUSK
-  - Laravel Feature Test
+  - Laravel Feature
   - JS Jest
   - JS Mocha
 - Other knowledge
-  - GraphQL
+  - GraphQL (apollo client)
   - UI/UX design, prototyping
   - PWA
+  - Clean Architecture (laravel Based)
 
 ## personality
 - birth 1984/04/22
